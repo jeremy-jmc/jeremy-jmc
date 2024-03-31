@@ -1,9 +1,8 @@
 
-- 👋 Hi, I’m @jeremy-jmc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## about me
+- I'm currently studying Computer Science.
+- I constantly study algorithms and neural networks.
+- Currently working as a Data & ML Engineer at a consulting firm.
 
 ### Languages and Tools:
 
@@ -23,3 +22,7 @@
 jeremy-jmc/jeremy-jmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## how to reach me
+
+- You can reach me via [email](jeremy.matos@utec.edu.pe) or connect with me on [LinkedIn](https://www.linkedin.com/in/jeremy-matos-c-/)
